@@ -76,6 +76,7 @@ plt.show()
 ## Output:
 <img width="822" height="535" alt="Screenshot 2026-03-29 121851" src="https://github.com/user-attachments/assets/4a106459-7d2c-4ef4-ad63-b2c71a598362" />
 <img width="591" height="702" alt="Screenshot 2026-03-29 121912" src="https://github.com/user-attachments/assets/a7600002-b504-44c8-81ce-3d660d4ae146" />
+<img width="765" height="369" alt="Screenshot 2026-03-29 122019" src="https://github.com/user-attachments/assets/e1332322-e4ab-4bd7-bd91-f7120bb09217" />
 <img width="878" height="566" alt="image" src="https://github.com/user-attachments/assets/f8f540ce-cc1b-4bcb-937d-268e8fa4eeeb" />
 
 
