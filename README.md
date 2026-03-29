@@ -75,6 +75,9 @@ plt.plot([min(y_test), max(y_test)], [min(y_test), max(y_test)], color='red')
 plt.show()
 ```
 ## Output:
+<img width="822" height="535" alt="Screenshot 2026-03-29 121851" src="https://github.com/user-attachments/assets/3bb36ce1-fbf7-4ee4-b518-f05d7bac4940" />
+<img width="591" height="702" alt="Screenshot 2026-03-29 121912" src="https://github.com/user-attachments/assets/2984685b-7a3b-4444-a994-1444ed70b864" />
+<img width="878" height="325" alt="Screenshot 2026-03-29 121924" src="https://github.com/user-attachments/assets/a96b0716-b0a5-481c-ab74-c56747a977e1" />
 
 ![alt text](image.png)
 
